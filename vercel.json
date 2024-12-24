@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/clock",
-      "destination": "https://clock-mike-pullen.vercel.app"
+      "source": "/clock/:path*",
+      "destination": "https://clock-mike-pullen.vercel.app/:paths*"
     }
   ]
 }
