@@ -1,10 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    },
-    {
       "source": "/clock/:path*",
       "destination": "https://clock-mike-pullen.vercel.app/:path*"
     },
