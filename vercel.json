@@ -2,15 +2,15 @@
   "rewrites": [
     {
       "source": "/clock/:path*",
-      "destination": "https://clock-mike-pullen.vercel.app/:paths*"
+      "destination": "https://clock-mike-pullen.vercel.app/:path*"
     },
     {
       "source": "/dog-photos/:path*",
-      "destination": "https://dog-photos-mike-pullen.vercel.app/:paths*"
+      "destination": "https://dog-photos-mike-pullen.vercel.app/:path*"
     },
     {
       "source": "/memory-game/:path*",
-      "destination": "https://memory-game-mike-pullen.vercel.app/:paths*"
+      "destination": "https://memory-game-mike-pullen.vercel.app/:path*"
     }
   ]
 }
