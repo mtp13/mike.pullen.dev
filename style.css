@@ -8,5 +8,17 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1rem;
+  flex: wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
   background: #f5f6f7;
+}
+
+@media (max-width: 480px) {
+  body {
+    flex-direction: column;
+  }
+  section {
+    width: 100%;
+  }
 }
