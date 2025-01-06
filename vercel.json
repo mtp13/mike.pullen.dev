@@ -11,6 +11,10 @@
     {
       "source": "/memory-game/:path*",
       "destination": "https://memory-game-mike-pullen.vercel.app/:path*"
+    },
+    {
+      "source": "/tic-tac-toe/:path*",
+      "destination": "https://tic-tac-toe-mike-pullen.vercel.app/:path*"
     }
   ]
 }
