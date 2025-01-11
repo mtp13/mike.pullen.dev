@@ -15,6 +15,11 @@
     {
       "source": "/tic-tac-toe/:path*",
       "destination": "https://tic-tac-toe-mike-pullen.vercel.app/:path*"
-    }
+    },
+    {
+      "source": "/hangman/:path*",
+      "destination": "https://hangman-mike-pullen.vercel.app/:path*"
+    },
+  ]
   ]
 }
