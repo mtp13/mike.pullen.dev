@@ -21,5 +21,4 @@
       "destination": "https://hangman-mike-pullen.vercel.app/:path*"
     }
   ]
-  ]
 }
