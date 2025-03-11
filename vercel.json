@@ -19,6 +19,10 @@
     {
       "source": "/hangman/:path*",
       "destination": "https://hangman-mike-pullen.vercel.app/:path*"
+    },
+    {
+      "source": "/birthday/:path*",
+      "destination": "https://birthday-mike-pullen.vercel.app/:path*"
     }
   ]
 }
