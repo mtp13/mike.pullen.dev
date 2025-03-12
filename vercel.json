@@ -21,8 +21,8 @@
       "destination": "https://hangman-mike-pullen.vercel.app/:path*"
     },
     {
-      "source": "/birthday/:path*",
-      "destination": "https://birthday-mike-pullen.vercel.app/:path*"
+      "source": "/events/:path*",
+      "destination": "https://events-mike-pullen.vercel.app/:path*"
     }
   ]
 }
